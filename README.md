@@ -2,3 +2,4 @@
 
 Instrucciones de como usar el simulador JASS tanto en Windows como en Linux.
 
+[Documentación](http://michogarcia.org/jass/)
