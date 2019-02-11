@@ -62,7 +62,7 @@ El resto del flujo de trabajo desde los pasos 5 serán similares.
 
 ## Como grabar configuraciones
 
-Usando aplicación usada desde el escritorio tal y como se documenta aquí, se pueden grabar tanto los progresos como nuevas configuraciones de planta. Para ello definiremos los parámetros en la planta cambiando los valores de los componentes como deseemos. Una vez que tengamos la configuración definida iremos a `Simulation`, `Save plant setup` lo que nos abrirá una ventana de archivos. 
+Usando la aplicación desde el escritorio tal y como se documenta aquí, se pueden grabar tanto los progresos como nuevas configuraciones de planta. Para ello definiremos los parámetros en la planta cambiando los valores de los componentes como deseemos. Una vez que tengamos la configuración definida iremos a `Simulation`, `Save plant setup` lo que nos abrirá una ventana de archivos. 
 
 ![](./images/guardar.gif)
 
