@@ -58,8 +58,23 @@ Si no se ejecuta es posible que tengas que asignarle permisos de ejecución al a
 $ chmod u+x jass.sh
 ```
 
-El resto del flujo de trabajo desde los pasos 5 serán similares. 
+El resto del flujo de trabajo desde los pasos 5 serán similares.
 
+# Como grabar configuraciones
+
+Usando aplicación usada desde el escritorio tal y como se documenta aquí, se pueden grabar tanto los progresos como nuevas configuraciones de planta. Para ello definiremos los parámetros en la planta cambiando los valores de los componentes como deseemos. Una vez que tengamos la configuración definida iremos a `Simulation`, `Save plant setup` lo que nos abrirá una ventana de archivos. 
+
+![](./images/guardar.gif)
+
+Definiremos el nombre con el que queremos guardar nuestra configuración y pulsaremos sobre `Guardar`. 
+
+> **IMPORTANTE** Deberemos poner la extensión `.jar`en el archivo para que el programa lo reconozca como un archivo válido cuando queramos usar esta configuración.
+
+Una vez guardado veremos que tenemos un nuevo archivo `prueba.jar` (en este caso *prueba.jar* es un ejemplo de nombre) en la carpeta que hayamos seleccionado para guardarlo
+
+![](./images/guardado.png)
+
+Para cargar nuestra configuración simplemente volveremos a realizar los pasos 8 y 9.
 
 ## Documentación
 
